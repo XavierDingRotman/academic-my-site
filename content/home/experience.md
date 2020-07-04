@@ -17,13 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Manager"
   company = "Amarsoft "
   company_url = ""
   location = "Shanghai"
-  date_start = "2018-11"
-  date_end = "2019-05"
+  date_start = "2018-11-11"
+  date_end = "2019-05-12"
   description = """
   Responsibilities include:
   
@@ -37,20 +38,20 @@ date_format = "Jan 2006"
   company = "AIG"
   company_url = ""
   location = "Shanghai"
-  date_start = "2015-11"
-  date_end = "2018-11"
+  date_start = "2015-07-04"
+  date_end = "2018-11-11"
   description = """
   Responsibilities include:
    * Financial Risk Modeling 
-    Developed Python model for Internal Capital risk factors scenario analysis shortening time by 67%
-    Managed risk data Oracle SQL database, automated process and reduced data redundacy by 50% 
+    Developed Python model for Internal Capital risk factors scenario analysis
+    Managed risk data Oracle SQL database, automated process and reduced data redundacy
     Analyzed company’s risk indicators using Monte-Carlo simulation and coupla methods
     Coordinated deployment of front-end web portal
     
   * Quantitative Financial Analysis 
-    Validated an ALM model in SQL and C# by automating of 3 steps; reduced operational errors by 75%
-    Developed Australia Trustee Report data management tool resulting in efficiency improvement by 100% in C#
-    Built automated U.S. Agency RMBS cash flow analysis model, reduced time by 50% in VBA and SQL
+    Validated ALM models in SQL and C# ; reduced operational errors
+    Developed Australia Trustee Report data management tool in C#
+    Built automated U.S. Agency RMBS cash flow analysis model in VBA and SQL
 
   """
 
