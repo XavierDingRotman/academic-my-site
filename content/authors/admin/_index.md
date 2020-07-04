@@ -39,10 +39,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-
-
-Xavier Ding is an Full-Time MBA candidate at Rotman School of Management, University of Toronto. He is a passionate developer focuing on data science and its application in financial risk management, quantitative finance and social intelligence. He is a certified Financial Risk Manager (FRM) and had years of experience in quantitative financial analysis.
+Xavier Ding is an Full-Time MBA candidate at Rotman School of Management, University of Toronto. He is a passionate developer focuing on data science and its application in financial risk management, quantitative finance and social intelligence. He is a certified Financial Risk Manager (FRM) and he had years of experience in quantitative financial analysis.
