@@ -40,15 +40,17 @@ date_format = "Jan 2006"
   date_start = "2015-11"
   date_end = "2018-11"
   description = """
+  Responsibilities include:
    * Financial Risk Modeling 
-    ** Developed Python model for Internal Capital risk factors scenario analysis shortening time by 67%
-    ** Managed risk data Oracle SQL database, automated process and reduced data redundacy by 50% 
-    ** Analyzed company’s risk indicators using Monte-Carlo simulation and coupla methods
-    ** Coordinated deployment of front-end web portal
+    Developed Python model for Internal Capital risk factors scenario analysis shortening time by 67%
+    Managed risk data Oracle SQL database, automated process and reduced data redundacy by 50% 
+    Analyzed company’s risk indicators using Monte-Carlo simulation and coupla methods
+    Coordinated deployment of front-end web portal
+    
   * Quantitative Financial Analysis 
-    ** Validated an ALM model in SQL and C# by automating of 3 steps; reduced operational errors by 75%
-    ** Developed Australia Trustee Report data management tool resulting in efficiency improvement by 100% in C#
-    ** Built automated U.S. Agency RMBS cash flow analysis model, reduced time by 50% in VBA and SQL
+    Validated an ALM model in SQL and C# by automating of 3 steps; reduced operational errors by 75%
+    Developed Australia Trustee Report data management tool resulting in efficiency improvement by 100% in C#
+    Built automated U.S. Agency RMBS cash flow analysis model, reduced time by 50% in VBA and SQL
 
   """
 
