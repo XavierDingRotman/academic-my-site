@@ -19,8 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[education]]
   title = "MBA"
-  school = "Rotman School of Management"
-  company = "University of Toronto"
+  company = "Rotman School of Management, University of Toronto"
   company_url = ""
   location = "Toronto, ON, Canada"
   date_start = "2019-07"
@@ -30,8 +29,7 @@ date_format = "Jan 2006"
 
 [[education]]
   title = "MA in Statistics"
-  school = "Graduate School of Arts and Science"
-  company = "Columbia University"
+  company = "Graduate School of Arts and Science, Columbia University"
   company_url = ""
   location = "New York, NY, United States"
   date_start = "2013-07"
@@ -40,8 +38,7 @@ date_format = "Jan 2006"
   
 [[education]]
   title = "BSc in Mathematics"
-  school = "School of Mathematics"
-  company = "Fudan University"
+  company = "School of Mathematics, Fudan University"
   company_url = ""
   location = "Yangpu, Shanghai, China"
   date_start = "2009-07"
