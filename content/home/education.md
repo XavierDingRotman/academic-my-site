@@ -18,9 +18,9 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[education]]
-  degree = "MBA"
+  title = "MBA"
   school = "Rotman School of Management"
-  university = "University of Toronto"
+  company = "University of Toronto"
   company_url = ""
   location = "Toronto, ON, Canada"
   date_start = "2019-07"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   courses = ""
 
 [[education]]
-  degree = "MA in Statistics"
+  title = "MA in Statistics"
   school = "Graduate School of Arts and Science"
-  university = "Columbia University"
+  company = "Columbia University"
   company_url = ""
   location = "New York, NY, United States"
   date_start = "2013-07"
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = """General statistics and data mining"""
   
 [[education]]
-  degree = "BSc in Mathematics"
+  title = "BSc in Mathematics"
   school = "School of Mathematics"
-  university = "Fudan University"
+  company = "Fudan University"
   company_url = ""
   location = "Yangpu, Shanghai, China"
   date_start = "2009-07"
