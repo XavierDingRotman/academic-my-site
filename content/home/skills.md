@@ -27,6 +27,12 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL"
+  description = "90%"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -39,11 +45,11 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "hat-chef"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Cooking"
   description = "10%"
-
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
