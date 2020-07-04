@@ -19,33 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Global Association of Risk Professionals (GARP)"
+  organization_url = "https://www.garp.org/"
+  title = "Financial Risk Manager (FRM)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.garp.org/"
+  date_start = "2019-09-01"
   date_end = ""
-  description = ""
+  description = """
+  Basel III Charter
+  Credit Risk parameters (PD, EAD and LGD) modeling
+  Risk-Weighted Asset calculation
+  Basel II AIRB approach
+  Model risk estimation
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "CFA Institute"
+  organization_url = "https://www.cfainstitute.org/"
+  title = "CFA Level I "
+  url = "https://www.cfainstitute.org/"
+  certificate_url = "https://www.cfainstitute.org/g"
+  date_start = "2016-01-26"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Amazon Web Service"
+  organization_url = "https://aws.amazon.com/certification/?nc1=h_ls"
+  title = "AWS Certified Develope"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://aws.amazon.com/certification/?nc1=h_ls"
+  date_start = "2017-09-01"
+  date_end = "2019-09-01"
   description = ""
 
 +++
