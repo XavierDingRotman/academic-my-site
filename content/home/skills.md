@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL"
   description = "90%"
   
@@ -46,7 +46,7 @@ subtitle = ""
   
 [[feature]]
   icon = "hat-chef"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Cooking"
   description = "10%"
   
