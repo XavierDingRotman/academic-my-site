@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[education]]
   degree = "BSc in Mathematics"
   school = "School of Mathematics"
-  company = "Fudan University"
+  university = "Fudan University"
   company_url = ""
   location = "Yangpu, Shanghai, China"
   date_start = "2009-07"
