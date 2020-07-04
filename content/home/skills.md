@@ -46,7 +46,7 @@ subtitle = ""
   
 [[feature]]
   icon = "hat-chef"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Cooking"
   description = "10%"
   
