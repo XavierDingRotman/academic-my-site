@@ -25,6 +25,9 @@ social:
     link: https://github.com/XavierDingRotman
 education:
   courses:
+    - course: MBA
+      institution: University of Toronto
+      year: 2021
     - course: MA in Statistics
       institution: Columbia University
       year: 2014
