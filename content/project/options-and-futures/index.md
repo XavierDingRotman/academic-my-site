@@ -6,7 +6,7 @@ draft: false
 featured: true
 external_link: https://github.com/XavierDingRotman/OptionsFutures
 image:
-  filename: featured
+  filename: candofinance-stockmarket.jpg
   focal_point: Smart
   preview_only: false
 ---
