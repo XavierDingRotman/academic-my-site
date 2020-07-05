@@ -10,3 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+A quantitative financial library for options and futures pricing based on Numpy, Scipy and Pandas.
