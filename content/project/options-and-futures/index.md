@@ -8,6 +8,6 @@ external_link: https://github.com/XavierDingRotman/OptionsFutures
 image:
   filename: candofinance-stockmarket.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 A quantitative financial library for options and futures pricing based on Numpy, Scipy and Pandas.
